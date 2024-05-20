@@ -6,5 +6,6 @@ public class a {
         System.out.println("测试将本地分支提交到远程分支");
         System.out.println("测试将本地分支提交到远程分支1");
         System.out.println("测试将本地分支提交到远程分支2");
+        System.out.println("测试将本地分支提交到远程分支3");
     }
 }
